@@ -27,8 +27,8 @@ div {
   color: #5F6980;
   font-size: 20px;
   width: 760px;
-  position: relative;
-  left: 550px;
+  display: inline-block;
+  text-align: center;
 }
 
 header {
